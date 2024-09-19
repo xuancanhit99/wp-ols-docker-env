@@ -61,7 +61,7 @@ Cloned project
 │   └── localhost
 ├── LICENSE
 ├── README.md
-└── docker-compose.yml
+└── compose.yml
 ```
 
   * `acme` contains all applied certificates from Lets Encrypt
